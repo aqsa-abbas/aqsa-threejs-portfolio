@@ -3,7 +3,7 @@
 A modern, responsive, and animated **portfolio website** built with **React, Three.js, and Tailwind CSS** to showcase my work, skills, and contact information.
 
 ## 🚀 Live Demo
-https://aqsa-threejs-portfolio.vercel.app(#) 
+https://aqsa-threejs-portfolio.vercel.app
 
 ---
 
