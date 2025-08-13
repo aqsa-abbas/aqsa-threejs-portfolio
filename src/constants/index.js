@@ -16,11 +16,11 @@ export const clientReviews = [
   },
   {
     id: 2,
-    name: 'Zain R.',
-    position: 'Tech Lead at DevFlow',
+    name: 'Shahmeer',
+    position: 'Founder of Intellivision',
     img: 'assets/review2.png',
     review:
-      'It’s always a pleasure to work with Aqsa. She’s reliable, skilled in frontend development, and brings creativity to every project.',
+      'It’s always a pleasure to work with Aqsa. She’s reliable, skilled in web development, and brings creativity to every project.',
   },
 ];
 
@@ -51,9 +51,9 @@ export const workExperiences = [
   {
     id: 1,
     name: 'Freelance Projects',
-    pos: 'Frontend Developer',
-    duration: '2023 - Present',
-    title: 'Working on various freelance web projects using React, TailwindCSS and Three.js.',
+    pos: 'Fullstack Developer',
+    duration: '2024 - Present',
+    title: 'Working on various web projects using React, TailwindCSS and Three.js.',
     icon: '/assets/framer.svg',
     animation: 'victory',
   },
@@ -61,7 +61,7 @@ export const workExperiences = [
     id: 2,
     name: 'University Projects',
     pos: 'Student Developer',
-    duration: '2021 - 2023',
+    duration: '2024 - 2025',
     title: 'Completed multiple academic projects using modern web tools.',
     icon: '/assets/figma.svg',
     animation: 'clapping',

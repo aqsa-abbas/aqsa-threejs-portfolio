@@ -3,7 +3,7 @@
 A modern, responsive, and animated **portfolio website** built with **React, Three.js, and Tailwind CSS** to showcase my work, skills, and contact information.
 
 ## 🚀 Live Demo
-[Click here to view the live site](#) <!-- Vercel link yahan update karo -->
+https://aqsa-threejs-portfolio.vercel.app(#) 
 
 ---
 
@@ -40,7 +40,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aqsa-abbas/Aqsa-threejs-portfolio.git
+   git clone https://github.com/aqsa-abbas/aqsa-threejs-portfolio.git
   2- Navigate into the project
 cd your-repo-name
 3-Install dependencies
